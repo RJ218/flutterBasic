@@ -1,6 +1,9 @@
 # flutter_app_sample
 
 A new Flutter application.
+This is a very basic flutter application that takes input from user with the help of buttons and change the current value.
+A quick look of the app home page is:
+
 
 ## Getting Started
 
